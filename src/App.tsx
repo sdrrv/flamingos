@@ -10,8 +10,6 @@ const words = [
   "tens uns olhos estupidamente bonitos",
   "ficava o dia todo a olhar para ti",
   "quando chegares quero beijinhos",
-  "quando chegares quero abraços",
-  "quando chegares quero mimos",
   "já n gostas de mim",
   "não me ligas nenhuma",
   "não me respondes",
